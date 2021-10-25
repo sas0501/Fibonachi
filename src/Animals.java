@@ -2,8 +2,7 @@ abstract class Animals {
     boolean eat;
     boolean sleep;
 
-    public void animalVoice() {
-    }
+    abstract void animalVoice();
 
     public void animalSleep(boolean sleep) {
     }
