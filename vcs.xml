@@ -6,8 +6,13 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="sast0501" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://sast0501@bitbucket.org/sast0501/less2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
