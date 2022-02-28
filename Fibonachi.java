@@ -5,7 +5,7 @@ import java.math.BigInteger;
 public class Fibonachi {
 
     public static void main(String[] args) {
-        // Фибоначчи в цикле
+        // Fibonacci v cikle
         BigInteger num0 = BigInteger.valueOf(0);
         BigInteger num1 = BigInteger.valueOf(1);
         BigInteger num2;
@@ -16,7 +16,7 @@ public class Fibonachi {
             num0 = num1;
             num1 = num2;
         }
-        // Рекурсия
+        // Rekursia
         System.out.println();
         BigInteger num=BigInteger.valueOf(0);
         BigInteger i = BigInteger.valueOf(20);
